@@ -4,4 +4,4 @@
 - Qual navegador usar: 
 - Descrição:
 
-hub creat
+hub create
